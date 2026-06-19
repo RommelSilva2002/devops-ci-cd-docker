@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "Error intencional"
-exit 1
+exit 0
+
 
